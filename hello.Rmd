@@ -1,5 +1,5 @@
 ---
-title: "Hello"
+title: "Test Document"
 author: "John Fox"
 date: "June 27, 2016"
 output: github_document
